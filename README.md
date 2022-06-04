@@ -24,11 +24,11 @@
  ⚡ Fun fact **I'm an international model ex-college athlete!**
 </div>
 
-<div align="center">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-</div>
+
 
 <h3 align="center">Connect with me:</h3>
   <div align="center">
