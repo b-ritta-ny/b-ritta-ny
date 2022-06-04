@@ -21,7 +21,7 @@
 
  📄 Know about my experiences [https://linkedin.com/in/b-ritta-ny](https://linkedin.com/in/b-ritta-ny)
 
- ⚡ Fun fact **I'm an international model ex-college athlete!**
+ ⚡ Fun fact **I'm an international model and ex-college athlete!**
 </div>
 
 
