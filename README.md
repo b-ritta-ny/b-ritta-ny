@@ -7,15 +7,15 @@
 
  🌱 I’m currently learning **the Next.js framework**
 
- 👯 I’m looking to collaborate on **front end projects**
+ 👯 I’m looking to collaborate on **React or Rails projects**
 
- 🤝 I’m looking for help with **React Native**
+ 🤝 I’m looking for help with **algorithm learning and practice**
 
  👨‍💻 All of my projects are available at [https://github.com/b-ritta-ny](https://github.com/b-ritta-ny)
 
  📝 I regularly write articles on [https://dev.to/b_ritta_ny](https://dev.to/b_ritta_ny)
 
- 💬 Ask me about **what I'm currently learning in bootcamp**
+ 💬 Ask me about **where I'm looking to travel next; I'm always on the move!**
 
  📫 How to reach me **DM me on twitter! @b_ritta_ny**
 
