@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://twitter.com/b_ritta_ny" target="blank"><img src="https://img.shields.io/twitter/follow/b_ritta_ny?logo=twitter&style=for-the-badge" alt="b_ritta_ny" /></a> </p>
 <br>
 <div align="center">
- 🔭 I’m currently working on [creating my portfolio site (project)](https://github.com/b-ritta-ny/b-ritta-ny.github.io)
+ 🔭 I’m currently working on [creating my portfolio site](https://github.com/b-ritta-ny/b-ritta-ny.github.io)
 
  🌱 I’m currently learning **React & Ruby**
 
