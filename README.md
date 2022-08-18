@@ -5,7 +5,7 @@
 <div align="center">
  🔭 I’m currently working on <a href="https://github.com/b-ritta-ny/b-ritta-ny.github.io">creating my portfolio site</a>
 
- 🌱 I’m currently learning **React & Ruby**
+ 🌱 I’m currently learning **the Next.js framework**
 
  👯 I’m looking to collaborate on **front end projects**
 
